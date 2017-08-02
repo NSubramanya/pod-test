@@ -1,0 +1,6 @@
+framework module CML_SCAN {
+  umbrella header "CML_SCAN-umbrella.h"
+
+  export *
+  module * { export * }
+}

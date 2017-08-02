@@ -1,0 +1,19 @@
+{
+  "name": "CML_SCAN",
+  "version": "1.0.0",
+  "summary": "This is a Chanel internal framework that simplifies the implementation of barcode scanner.",
+  "homepage": "https://sources.clasp-infra.com/tfs/DefaultCollection/Mobile/CML/_git/CML_SCAN",
+  "license": "Chanel",
+  "authors": {
+    "SandhuSukhjeet": "sukhjeetsingh.s@solcen.in",
+    "NSubramanya": "subramanya.n@solcen.in"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://sources.clasp-infra.com/tfs/DefaultCollection/Mobile/_git/CML_SCAN",
+    "tag": "1.0.0"
+  },
+  "source_files": "*.swift"
+}
