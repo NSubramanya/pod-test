@@ -1,0 +1,11 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'ScanDemo' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+  pod 'CML_SCAN', git: "https://sources.clasp-infra.com/tfs/DefaultCollection/Mobile/CML/_git/CML_SCAN"
+
+  # Pods for ScanDemo
+
+end

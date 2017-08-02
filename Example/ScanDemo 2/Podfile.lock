@@ -1,0 +1,21 @@
+PODS:
+  - CML_SCAN (1.0.0)
+
+DEPENDENCIES:
+  - CML_SCAN (from `https://sources.clasp-infra.com/tfs/DefaultCollection/Mobile/CML/_git/CML_SCAN`)
+
+EXTERNAL SOURCES:
+  CML_SCAN:
+    :git: https://sources.clasp-infra.com/tfs/DefaultCollection/Mobile/CML/_git/CML_SCAN
+
+CHECKOUT OPTIONS:
+  CML_SCAN:
+    :commit: fe7e739fa99793097ece1269428e510afbc24a25
+    :git: https://sources.clasp-infra.com/tfs/DefaultCollection/Mobile/CML/_git/CML_SCAN
+
+SPEC CHECKSUMS:
+  CML_SCAN: 10c8f001c8e93f89daee1b459e190b78c5768c8a
+
+PODFILE CHECKSUM: 66388638b8e3eb9777014e0de39b144b56544500
+
+COCOAPODS: 1.2.1
